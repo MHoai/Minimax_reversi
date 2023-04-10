@@ -1,0 +1,92 @@
+RONALDO win
+ 
+MESSI draw RONALDO
+ 
+MESSI draw RONALDO
+ 
+MESSI win
+ 
+RONALDO win
+ 
+MESSI win
+ 
+RONALDO win
+ 
+RONALDO lose due to invalid move
+MESSI win
+ 
+RONALDO lose due to invalid move
+MESSI win
+ 
+RONALDO lose due to invalid move
+RONALDO lose due to invalid move
+MESSI win
+ 
+RONALDO lose due to invalid move
+MESSI win
+ 
+RONALDO lose due to invalid move
+MESSI win
+ 
+RONALDO lose due to invalid move
+MESSI win
+ 
+RONALDO lose due to invalid move
+MESSI win
+ 
+RONALDO win
+ 
+RONALDO lose due to invalid move
+MESSI win
+ 
+RONALDO lose due to invalid move
+MESSI win
+ 
+RONALDO lose due to invalid move
+MESSI win
+ 
+RONALDO lose due to invalid move
+MESSI win
+ 
+RONALDO lose due to invalid move
+MESSI win
+ 
+RONALDO lose due to invalid move
+MESSI win
+ 
+RONALDO lose due to invalid move
+MESSI win
+ 
+RONALDO lose due to invalid move
+MESSI win
+ 
+RONALDO win
+ 
+MESSI win
+ 
+RONALDO win
+ 
+RONALDO lose due to out of time
+MESSI win
+ 
+RONALDO lose due to out of time
+MESSI win
+ 
+RONALDO lose due to out of time
+MESSI win
+ 
+MESSI win
+ 
+RONALDO lose due to out of time
+MESSI win
+ 
+RONALDO win
+ 
+RONALDO win
+ 
+RONALDO lose due to out of time
+MESSI win
+ 
+RONALDO lose due to out of time
+MESSI win
+ 
